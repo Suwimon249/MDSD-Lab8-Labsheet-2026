@@ -496,9 +496,15 @@ class SellItemPage extends StatefulWidget {
 
 > ✅ **Checkpoint 5.1** รันแอปแล้วทำตามลำดับนี้: 1. สร้างร่างประกาศใหม่ผ่าน Tab "ลงประกาศขาย" ด้วยความช่วยเหลือของ AI เหมือนสัปดาห์ที่ 7 2. กดยืนยันร่าง 3. กดปุ่มไอคอนเข้าหน้า "ร่างประกาศของฉัน" แล้วเห็นร่างที่เพิ่งสร้าง 4. ปิดแอปให้สนิทแล้วเปิดใหม่ กลับเข้าหน้า "ร่างประกาศของฉัน" อีกครั้ง ถ่ายภาพหน้าจอทั้ง 4 ขั้นตอนนี้แนบส่ง เพื่อพิสูจน์ว่าร่างไม่หายไปแม้ปิดแอปแล้ว 
 
-```text
-บันทึกผลลัพธ์ที่นี่
-```
+<img width="427" alt="c5 1 1" src="https://github.com/user-attachments/assets/3a590bc5-c853-4b5a-b355-140a59c76dd7" />
+
+<img width="416"  alt="c5 1 2" src="https://github.com/user-attachments/assets/ed388d55-391a-4c6c-83db-57d5d0efeb2d" />
+
+
+https://github.com/user-attachments/assets/57db7d9b-12e6-4bb8-9370-2d11d1f40e56
+
+
+
 
 ---
 
@@ -510,9 +516,9 @@ class SellItemPage extends StatefulWidget {
 
 > ✅ **Checkpoint 6.1** ถ่ายภาพหน้าจอที่แสดงให้เห็นว่า Tab รายการโปรดและหน้าร่างประกาศยังคงแสดงข้อมูลได้ตามปกติแม้ไม่มีอินเทอร์เน็ตเลย (ส่วน Tab หน้าหลักที่ดึงจาก Fake Store API คาดว่าจะแสดง Error ตามปกติ เพราะยังไม่ได้ทำ Local Cache ให้หน้านั้น) 
 
-```text
-บันทึกผลลัพธ์ที่นี่
-```
+<img width="400" alt="c6 1 1" src="https://github.com/user-attachments/assets/6eeda94e-dcef-45b5-b3c1-cc58fc8daef9" />
+
+<img width="400" alt="c6 1 2" src="https://github.com/user-attachments/assets/04409223-2917-4ec3-8506-f8c1e2800c63" />
 
 ---
 
